@@ -1,5 +1,5 @@
 # Patricia Zaragoza Palma 
-
+# ingeniería en sistemas computacionales 
 import sympy as sp
 import tkinter as tk
 from tkinter import messagebox
