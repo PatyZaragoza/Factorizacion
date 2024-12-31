@@ -1,3 +1,5 @@
+# Patricia Zaragoza Palma 
+
 import sympy as sp
 import tkinter as tk
 from tkinter import messagebox
